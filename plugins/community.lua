@@ -14,7 +14,6 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.ruby" },
   { import = "astrocommunity.pack.yaml" },
   -- Motion packs
   { import = "astrocommunity.motion.mini-basics" },
