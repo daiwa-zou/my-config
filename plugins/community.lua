@@ -12,8 +12,6 @@ return {
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.helm" },
   { import = "astrocommunity.pack.json" },
-  { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.yaml" },
   -- Motion packs
   { import = "astrocommunity.motion.mini-basics" },
